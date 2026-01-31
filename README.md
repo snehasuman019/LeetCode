@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/snehasuman019/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0525-contiguous-array](https://github.com/snehasuman019/LeetCode/tree/master/0525-contiguous-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/snehasuman019/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Prefix Sum
@@ -18,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0525-contiguous-array](https://github.com/snehasuman019/LeetCode/tree/master/0525-contiguous-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/snehasuman019/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
+## String
+|  |
+| ------- |
+| [0205-isomorphic-strings](https://github.com/snehasuman019/LeetCode/tree/master/0205-isomorphic-strings) |
 <!---LeetCode Topics End-->
