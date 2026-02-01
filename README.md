@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/snehasuman019/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0198-house-robber](https://github.com/snehasuman019/LeetCode/tree/master/0198-house-robber) |
 | [0303-range-sum-query-immutable](https://github.com/snehasuman019/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/snehasuman019/LeetCode/tree/master/0525-contiguous-array) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/snehasuman019/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0198-house-robber](https://github.com/snehasuman019/LeetCode/tree/master/0198-house-robber) |
 ## Design
 |  |
@@ -43,4 +45,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/snehasuman019/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/snehasuman019/LeetCode/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/snehasuman019/LeetCode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/snehasuman019/LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
