@@ -12,12 +12,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/snehasuman019/LeetCode/tree/master/0525-contiguous-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/snehasuman019/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/snehasuman019/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/snehasuman019/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/snehasuman019/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0525-contiguous-array](https://github.com/snehasuman019/LeetCode/tree/master/0525-contiguous-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/snehasuman019/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/snehasuman019/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -57,4 +59,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/snehasuman019/LeetCode/tree/master/0042-trapping-rain-water) |
+## Sliding Window
+|  |
+| ------- |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/snehasuman019/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/snehasuman019/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 <!---LeetCode Topics End-->
