@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/snehasuman019/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/snehasuman019/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/snehasuman019/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3637-trionic-array-i](https://github.com/snehasuman019/LeetCode/tree/master/3637-trionic-array-i) |
 ## Hash Table
 |  |
 | ------- |
