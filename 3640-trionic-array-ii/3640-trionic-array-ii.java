@@ -1,3 +1,58 @@
+/*
+class Solution {
+    public long maxSumTrionic(int[] nums){
+        int n = nums.length;
+        long[] prefix = new long[n + 1];
+        for (int i = 0; i < n; i++) {
+            prefix[i + 1] = prefix[i] + nums[i];
+        }
+        int[] leftInc = new int[n];
+        leftInc[0] = 1;
+        for (int i = 1; i < n; i++) {
+            if (nums[i - 1] < nums[i]) {
+                leftInc[i] = leftInc[i - 1] + 1;
+            } else {
+                leftInc[i] = 1;
+            }
+        }
+        int[] rightInc = new int[n];
+        rightInc[n - 1] = 1;
+        for (int i = n - 2; i >= 0; i--) {
+            if (nums[i] < nums[i + 1]) {
+                rightInc[i] = rightInc[i + 1] + 1;
+            } else {
+                rightInc[i] = 1;
+            }
+        }
+        int[] midDec = new int[n];
+        midDec[n - 1] = 1;
+        for (int i = n - 2; i >= 0; i--) {
+            if (nums[i] > nums[i + 1]) {
+                midDec[i] = midDec[i + 1] + 1;
+            } else {
+                midDec[i] = 1;
+            }
+        }
+        
+        long ans = Long.MIN_VALUE;
+        for (int p = 1; p < n - 2; p++) {
+            int q = p + 1;
+            if (nums[p - 1] < nums[p] && nums[p] > nums[q] && nums[q] < nums[q + 1]) {
+                int lenL = leftInc[p];
+                int lenM = midDec[p];
+                int lenR = rightInc[q];
+                
+                int l = p - lenL + 1;
+                int r = q + lenR - 1;
+                
+                long sum = prefix[r + 1] - prefix[l];
+                ans = Math.max(ans, sum);
+            }
+        }
+        
+        return ans;
+    }
+*/
 class Solution {
     public long maxSumTrionic(int[] nums) {
         int n = nums.length;
@@ -34,3 +89,6 @@ class Solution {
         return ans;
     }
 }
+
+
+
