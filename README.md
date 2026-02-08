@@ -88,9 +88,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/snehasuman019/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/snehasuman019/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/snehasuman019/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/snehasuman019/LeetCode/tree/master/0110-balanced-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/snehasuman019/LeetCode/tree/master/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->
