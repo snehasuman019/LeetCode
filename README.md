@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/snehasuman019/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0198-house-robber](https://github.com/snehasuman019/LeetCode/tree/master/0198-house-robber) |
+| [0287-find-the-duplicate-number](https://github.com/snehasuman019/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/snehasuman019/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/snehasuman019/LeetCode/tree/master/0525-contiguous-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/snehasuman019/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/snehasuman019/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0287-find-the-duplicate-number](https://github.com/snehasuman019/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Stack
 |  |
 | ------- |
@@ -118,9 +120,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/snehasuman019/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [1382-balance-a-binary-search-tree](https://github.com/snehasuman019/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## Queue
 |  |
 | ------- |
 | [2073-time-needed-to-buy-tickets](https://github.com/snehasuman019/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/snehasuman019/LeetCode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
