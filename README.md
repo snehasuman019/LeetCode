@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/snehasuman019/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0066-plus-one](https://github.com/snehasuman019/LeetCode/tree/master/0066-plus-one) |
 | [0198-house-robber](https://github.com/snehasuman019/LeetCode/tree/master/0198-house-robber) |
 | [0287-find-the-duplicate-number](https://github.com/snehasuman019/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/snehasuman019/LeetCode/tree/master/0303-range-sum-query-immutable) |
@@ -145,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/snehasuman019/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/snehasuman019/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/snehasuman019/LeetCode/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
