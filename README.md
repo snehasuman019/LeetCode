@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/snehasuman019/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/snehasuman019/LeetCode/tree/master/0290-word-pattern) |
 | [0696-count-binary-substrings](https://github.com/snehasuman019/LeetCode/tree/master/0696-count-binary-substrings) |
+| [0761-special-binary-string](https://github.com/snehasuman019/LeetCode/tree/master/0761-special-binary-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/snehasuman019/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3713-longest-balanced-substring-i](https://github.com/snehasuman019/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/snehasuman019/LeetCode/tree/master/3714-longest-balanced-substring-ii) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0761-special-binary-string](https://github.com/snehasuman019/LeetCode/tree/master/0761-special-binary-string) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/snehasuman019/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/snehasuman019/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 ## Enumeration
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/snehasuman019/LeetCode/tree/master/0190-reverse-bits) |
+| [0761-special-binary-string](https://github.com/snehasuman019/LeetCode/tree/master/0761-special-binary-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/snehasuman019/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/snehasuman019/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/snehasuman019/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
