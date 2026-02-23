@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/snehasuman019/LeetCode/tree/master/0290-word-pattern) |
 | [0525-contiguous-array](https://github.com/snehasuman019/LeetCode/tree/master/0525-contiguous-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/snehasuman019/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/snehasuman019/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/snehasuman019/LeetCode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/snehasuman019/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/snehasuman019/LeetCode/tree/master/3714-longest-balanced-substring-ii) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/snehasuman019/LeetCode/tree/master/0290-word-pattern) |
 | [0696-count-binary-substrings](https://github.com/snehasuman019/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/snehasuman019/LeetCode/tree/master/0761-special-binary-string) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/snehasuman019/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/snehasuman019/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3713-longest-balanced-substring-i](https://github.com/snehasuman019/LeetCode/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/snehasuman019/LeetCode/tree/master/3714-longest-balanced-substring-ii) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0693-binary-number-with-alternating-bits](https://github.com/snehasuman019/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/snehasuman019/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/snehasuman019/LeetCode/tree/master/0868-binary-gap) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/snehasuman019/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Segment Tree
 |  |
 | ------- |
@@ -182,4 +185,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/snehasuman019/LeetCode/tree/master/0401-binary-watch) |
+## Rolling Hash
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/snehasuman019/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Hash Function
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/snehasuman019/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->
