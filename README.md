@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/snehasuman019/LeetCode/tree/master/0066-plus-one) |
 | [0198-house-robber](https://github.com/snehasuman019/LeetCode/tree/master/0198-house-robber) |
 | [0287-find-the-duplicate-number](https://github.com/snehasuman019/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/snehasuman019/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/snehasuman019/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/snehasuman019/LeetCode/tree/master/0525-contiguous-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/snehasuman019/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/snehasuman019/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0198-house-robber](https://github.com/snehasuman019/LeetCode/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/snehasuman019/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0799-champagne-tower](https://github.com/snehasuman019/LeetCode/tree/master/0799-champagne-tower) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/snehasuman019/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3640-trionic-array-ii](https://github.com/snehasuman019/LeetCode/tree/master/3640-trionic-array-ii) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/snehasuman019/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/snehasuman019/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [1382-balance-a-binary-search-tree](https://github.com/snehasuman019/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## Queue
 |  |
