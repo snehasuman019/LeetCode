@@ -175,12 +175,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/snehasuman019/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/snehasuman019/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/snehasuman019/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/snehasuman019/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/snehasuman019/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/snehasuman019/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [1382-balance-a-binary-search-tree](https://github.com/snehasuman019/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/snehasuman019/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Queue
 |  |
 | ------- |
@@ -239,4 +241,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/snehasuman019/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+## Union-Find
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/snehasuman019/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Graph Theory
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/snehasuman019/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/snehasuman019/LeetCode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 <!---LeetCode Topics End-->
