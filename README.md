@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/snehasuman019/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [1622-fancy-sequence](https://github.com/snehasuman019/LeetCode/tree/master/1622-fancy-sequence) |
 ## Sorting
 |  |
 | ------- |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [1622-fancy-sequence](https://github.com/snehasuman019/LeetCode/tree/master/1622-fancy-sequence) |
 | [3719-longest-balanced-subarray-i](https://github.com/snehasuman019/LeetCode/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/snehasuman019/LeetCode/tree/master/3721-longest-balanced-subarray-ii) |
 ## Math
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/snehasuman019/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/snehasuman019/LeetCode/tree/master/0067-add-binary) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/snehasuman019/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1622-fancy-sequence](https://github.com/snehasuman019/LeetCode/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/snehasuman019/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/snehasuman019/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Counting
