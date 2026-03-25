@@ -7,8 +7,6 @@ class Solution {
         }
         if (total % 2 != 0) return false;
         long target = total / 2;
-
-        // Check horizontal cuts
         long sum = 0;
         for (int i = 0; i < m - 1; i++) {
             for (int j = 0; j < n; j++) sum += grid[i][j];
