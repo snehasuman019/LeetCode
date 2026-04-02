@@ -329,4 +329,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3474-lexicographically-smallest-generated-string](https://github.com/snehasuman019/LeetCode/tree/master/3474-lexicographically-smallest-generated-string) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/snehasuman019/LeetCode/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
