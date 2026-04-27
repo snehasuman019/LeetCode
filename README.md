@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/snehasuman019/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/snehasuman019/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/snehasuman019/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/snehasuman019/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/snehasuman019/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/snehasuman019/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/snehasuman019/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/snehasuman019/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/snehasuman019/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/snehasuman019/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/snehasuman019/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/snehasuman019/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/snehasuman019/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Doubly-Linked List
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/snehasuman019/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/snehasuman019/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/snehasuman019/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/snehasuman019/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -371,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/snehasuman019/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/snehasuman019/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/snehasuman019/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2573-find-the-string-with-lcp](https://github.com/snehasuman019/LeetCode/tree/master/2573-find-the-string-with-lcp) |
@@ -405,5 +409,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/snehasuman019/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/snehasuman019/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 <!---LeetCode Topics End-->
