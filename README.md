@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/snehasuman019/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/snehasuman019/LeetCode/tree/master/0048-rotate-image) |
 | [0057-insert-interval](https://github.com/snehasuman019/LeetCode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/snehasuman019/LeetCode/tree/master/0066-plus-one) |
 | [0198-house-robber](https://github.com/snehasuman019/LeetCode/tree/master/0198-house-robber) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/snehasuman019/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/snehasuman019/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/snehasuman019/LeetCode/tree/master/0067-add-binary) |
 | [0396-rotate-function](https://github.com/snehasuman019/LeetCode/tree/master/0396-rotate-function) |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/snehasuman019/LeetCode/tree/master/0048-rotate-image) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/snehasuman019/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/snehasuman019/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/snehasuman019/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
