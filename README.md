@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/snehasuman019/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/snehasuman019/LeetCode/tree/master/0061-rotate-list) |
 | [0287-find-the-duplicate-number](https://github.com/snehasuman019/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0696-count-binary-substrings](https://github.com/snehasuman019/LeetCode/tree/master/0696-count-binary-substrings) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/snehasuman019/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/snehasuman019/LeetCode/tree/master/0061-rotate-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/snehasuman019/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Depth-First Search
 |  |
