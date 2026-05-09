@@ -22,7 +22,6 @@ class Solution {
             for (int j = right - 1; j >= left; j--) grid[bottom][j] = rotated.get(idx++);
             for (int i = bottom - 1; i > top; i--) grid[i][left] = rotated.get(idx++);
         }
-
         return grid;
     }
 }
