@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/snehasuman019/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0396-rotate-function](https://github.com/snehasuman019/LeetCode/tree/master/0396-rotate-function) |
 | [0525-contiguous-array](https://github.com/snehasuman019/LeetCode/tree/master/0525-contiguous-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/snehasuman019/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0874-walking-robot-simulation](https://github.com/snehasuman019/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/snehasuman019/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1260-shift-2d-grid](https://github.com/snehasuman019/LeetCode/tree/master/1260-shift-2d-grid) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/snehasuman019/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0761-special-binary-string](https://github.com/snehasuman019/LeetCode/tree/master/0761-special-binary-string) |
 | [1288-remove-covered-intervals](https://github.com/snehasuman019/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/snehasuman019/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -506,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/snehasuman019/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/snehasuman019/LeetCode/tree/master/0067-add-binary) |
 | [0396-rotate-function](https://github.com/snehasuman019/LeetCode/tree/master/0396-rotate-function) |
+| [0628-maximum-product-of-three-numbers](https://github.com/snehasuman019/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/snehasuman019/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/snehasuman019/LeetCode/tree/master/0788-rotated-digits) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/snehasuman019/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
