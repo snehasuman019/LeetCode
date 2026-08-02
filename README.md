@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/snehasuman019/LeetCode/tree/master/0525-contiguous-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/snehasuman019/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0874-walking-robot-simulation](https://github.com/snehasuman019/LeetCode/tree/master/0874-walking-robot-simulation) |
+| [0877-stone-game](https://github.com/snehasuman019/LeetCode/tree/master/0877-stone-game) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/snehasuman019/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1260-shift-2d-grid](https://github.com/snehasuman019/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/snehasuman019/LeetCode/tree/master/1288-remove-covered-intervals) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/snehasuman019/LeetCode/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/snehasuman019/LeetCode/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/snehasuman019/LeetCode/tree/master/0799-champagne-tower) |
+| [0877-stone-game](https://github.com/snehasuman019/LeetCode/tree/master/0877-stone-game) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/snehasuman019/LeetCode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/snehasuman019/LeetCode/tree/master/1340-jump-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/snehasuman019/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -524,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/snehasuman019/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/snehasuman019/LeetCode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/snehasuman019/LeetCode/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/snehasuman019/LeetCode/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/snehasuman019/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1622-fancy-sequence](https://github.com/snehasuman019/LeetCode/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/snehasuman019/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -694,4 +697,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/snehasuman019/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/snehasuman019/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/snehasuman019/LeetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
