@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/snehasuman019/LeetCode/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/snehasuman019/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/snehasuman019/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/snehasuman019/LeetCode/tree/master/0048-rotate-image) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/snehasuman019/LeetCode/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/snehasuman019/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/snehasuman019/LeetCode/tree/master/0290-word-pattern) |
 | [0525-contiguous-array](https://github.com/snehasuman019/LeetCode/tree/master/0525-contiguous-array) |
