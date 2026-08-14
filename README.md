@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/snehasuman019/LeetCode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/snehasuman019/LeetCode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/snehasuman019/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/snehasuman019/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/snehasuman019/LeetCode/tree/master/0048-rotate-image) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/snehasuman019/LeetCode/tree/master/0015-3sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/snehasuman019/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0761-special-binary-string](https://github.com/snehasuman019/LeetCode/tree/master/0761-special-binary-string) |
 | [1288-remove-covered-intervals](https://github.com/snehasuman019/LeetCode/tree/master/1288-remove-covered-intervals) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/snehasuman019/LeetCode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/snehasuman019/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/snehasuman019/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/snehasuman019/LeetCode/tree/master/0061-rotate-list) |
