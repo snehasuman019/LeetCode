@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/snehasuman019/LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1406-stone-game-iii](https://github.com/snehasuman019/LeetCode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/snehasuman019/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/snehasuman019/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/snehasuman019/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/snehasuman019/LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/snehasuman019/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/snehasuman019/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/snehasuman019/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/snehasuman019/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/snehasuman019/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/snehasuman019/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/snehasuman019/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1980-find-unique-binary-string](https://github.com/snehasuman019/LeetCode/tree/master/1980-find-unique-binary-string) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/snehasuman019/LeetCode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/snehasuman019/LeetCode/tree/master/1340-jump-game-v) |
 | [1406-stone-game-iii](https://github.com/snehasuman019/LeetCode/tree/master/1406-stone-game-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/snehasuman019/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/snehasuman019/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/snehasuman019/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/snehasuman019/LeetCode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -415,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/snehasuman019/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/snehasuman019/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1871-jump-game-vii](https://github.com/snehasuman019/LeetCode/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/snehasuman019/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/snehasuman019/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -545,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/snehasuman019/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/snehasuman019/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [1382-balance-a-binary-search-tree](https://github.com/snehasuman019/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/snehasuman019/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/snehasuman019/LeetCode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/snehasuman019/LeetCode/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/snehasuman019/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
