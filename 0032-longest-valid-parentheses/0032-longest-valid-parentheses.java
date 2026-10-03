@@ -1,0 +1,34 @@
+class Solution {
+    public int longestValidParentheses(String s) {
+        int length = s.length();
+        int[] dp = new int[length + 1];
+        int maxLength = 0;
+        for (int i = 2; i <= length; i++) {
+            // Only process if current character is ')'
+            if (s.charAt(i - 1) == ')') {
+                // Case 1: Previous character is '(', forms a pair "()"
+                if (s.charAt(i - 2) == '(') {
+                    // Current valid length = previous valid length before the pair + 2
+                    dp[i] = dp[i - 2] + 2;
+                } 
+                // Case 2: Previous character is ')', need to check if we can form a longer sequence
+                else {
+                    // Find the index before the start of the valid sequence ending at i-1
+                    int matchIndex = i - dp[i - 1] - 1;
+                  
+                    // Check if there's a matching '(' for current ')'
+                    if (matchIndex > 0 && s.charAt(matchIndex - 1) == '(') {
+                        // Current valid length = length of inner valid parentheses + 2 (for the matching pair)
+                        // + any valid sequence before the matching '('
+                        dp[i] = dp[i - 1] + 2 + dp[matchIndex - 1];
+                    }
+                }
+              
+                // Update the maximum valid parentheses length found so far
+                maxLength = Math.max(maxLength, dp[i]);
+            }
+        }
+      
+        return maxLength;
+    }
+}
