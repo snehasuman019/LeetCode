@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/snehasuman019/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0205-isomorphic-strings](https://github.com/snehasuman019/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/snehasuman019/LeetCode/tree/master/0290-word-pattern) |
+| [0301-remove-invalid-parentheses](https://github.com/snehasuman019/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0657-robot-return-to-origin](https://github.com/snehasuman019/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/snehasuman019/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/snehasuman019/LeetCode/tree/master/0761-special-binary-string) |
@@ -695,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/snehasuman019/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0401-binary-watch](https://github.com/snehasuman019/LeetCode/tree/master/0401-binary-watch) |
 | [1096-brace-expansion-ii](https://github.com/snehasuman019/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/snehasuman019/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -793,6 +795,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/snehasuman019/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/snehasuman019/LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1306-jump-game-iii](https://github.com/snehasuman019/LeetCode/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/snehasuman019/LeetCode/tree/master/1345-jump-game-iv) |
