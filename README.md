@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/snehasuman019/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/snehasuman019/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0396-rotate-function](https://github.com/snehasuman019/LeetCode/tree/master/0396-rotate-function) |
+| [0485-max-consecutive-ones](https://github.com/snehasuman019/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/snehasuman019/LeetCode/tree/master/0525-contiguous-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/snehasuman019/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0874-walking-robot-simulation](https://github.com/snehasuman019/LeetCode/tree/master/0874-walking-robot-simulation) |
